@@ -2,7 +2,7 @@
 """
 Created on Thu Nov 10 22:01:22 2016
 
-@author: Alberto Marquez Gómez
+@author: Alberto Márquez Gómez
 @author: Álvaro Asenjo Torrico	
 @author: Juan José Montiel Cano
 
